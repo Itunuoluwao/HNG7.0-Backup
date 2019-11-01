@@ -724,7 +724,7 @@
         border-radius: 6px;
         border: none;
     }
-    .collapseBtn{
+    #collapseBtn{
             background: #00AEFF;
             border-radius: 6px;
             border: none;
