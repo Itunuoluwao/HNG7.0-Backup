@@ -13,53 +13,41 @@
     <link rel="icon" type="img/png" href="images/hng-favicon.png">
 </head>
 <body>
-
 <header class="top-navigation">
     <nav class="navbar navbar-expand-lg navbar-light ">
-
          <div class="nav-container d-flex justify-content-between">
              <a class="navbar-brand" href="#"><img id="hng-logo" src="https://res.cloudinary.com/phiileo/image/upload/v1571147073/brand-logo_tx0mdt.png"></a>
              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                  <span class="navbar-toggler-icon"></span>
              </button>
          </div>
-
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <div class="clearfix" style="width: 45%"></div>
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="https://hngi7.hng.tech/index.php">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="index.html">HNGi 6.0</a>
+                    <a class="nav-link" href="">HNGi 6.0</a>
                 </li>
-
                 <li class="nav-item">
-                    <a class="nav-link" href="https://hngi7.hng.tech/mentorpage.php">Mentors</a>
+                    <a class="nav-link" href="">Mentors</a>
                 </li>
-
                 <li class="nav-item">
-                    <a class="nav-link" href="https://hngi7.hng.tech/contactform.php">Contact</a>
+                    <a class="nav-link" href="">Contact</a>
                 </li>
-
                 <li class="nav-item">
-                    <a class="nav-link" href="https://hngi7.hng.tech/join-intern.php">Login</a>
+                    <a class="nav-link" href="">Login</a>
                 </li>
-
                 <li class="nav-item">
-                    <a class=" btn btn-primary" href="https://hngi7.hng.tech/join-intern.php">Join HNG </a>
+                    <a class=" btn btn-primary" href="">Join HNG </a>
                 </li>
-
             </ul>
-
         </div>
     </nav>
 </header>
-
-
 <section id="timer-section" class="p-2">
     <h2 class="darkblue-text" id="countdown-intro">Countdown to HNG 7.0 </h2>
-
     <section id="countdown-container" class="p-3">
         <div id="day-div">
             <div class="countdown-symbol" id="day-symbol">
@@ -101,17 +89,12 @@
             
         </div>
     </section>
-
     <h2 class="center-text"><a href="https://hngi7.hng.tech/join-intern.php" class="skyblue-text" id="countdown-register">REGISTER
         FOR HNG 7.0 NOW</a></h2>
-
-
 </section>
-
 <section id="about-section">
     <div class="about-container">
         <div class="row">
-
             <div class="col-lg-6 col-md-12 col-sm-12 wow slideInLeft">
                 <h1 style="margin-bottom: 50px" class="h-color">HNG 6.0 Internship</h1>
                 <div class="text-section">
@@ -121,7 +104,6 @@
                     <p>The programme was directed by Mark Essien, (founder-CEO hotels.ng) and some of the participants from the previous HNG Internship edition were brought on board as <a href="https://hngi7.hng.tech/mentorpage.php">Mentors</a>,their job was to guide and inspire participatants when needed and also to properly coordinate the event.</p>
                 </div>
             </div>
-
             <div class="col-lg-6 col-md-12 col-sm-12">
                 <div style="padding: 30px">
                     <img src="https://res.cloudinary.com/jaycodist/image/upload/v1570722500/home-forum_wmrsfj.png" width="100%">
@@ -130,12 +112,10 @@
         </div>
     </div>
 </section>
-
 <section class="gallery-section" align="center">
     <div class="">
         <h3 class="h-color">How it All Happened</h3>
     </div>
-
    <div class=" container  wow slideInUp">
        <div class="gal-row row">
         
@@ -144,44 +124,33 @@
                    <img src="https://res.cloudinary.com/jaycodist/image/upload/v1570722558/gallery-first_gldujn.png" width="100%">
                </div>
            </div>
-
            <div class="col-lg-4">
                <div class="gallery-img">
                    <img src="https://res.cloudinary.com/jaycodist/image/upload/v1570722589/gallery-second_nkrosi.png" width="100%">
                </div>
            </div>
-
            <div class="col-lg-4">
                <div class="gallery-img">
                    <img src="https://res.cloudinary.com/jaycodist/image/upload/v1570722618/gallery-third_oqgaiv.png" width="100%">
                </div>
            </div>
-
            <div class="col-lg-4">
                <div class="gallery-img">
                    <img src="https://res.cloudinary.com/jaycodist/image/upload/v1570722558/gallery-first_gldujn.png" width="100%">
                </div>
            </div>
-
-
            <div class="col-lg-4">
                <div class="gallery-img">
                    <img src="https://res.cloudinary.com/jaycodist/image/upload/v1570722589/gallery-second_nkrosi.png" width="100%">
                </div>
            </div>
-
            <div class="col-lg-4">
                <div class="gallery-img">
                    <img src="https://res.cloudinary.com/jaycodist/image/upload/v1570722618/gallery-third_oqgaiv.png" width="100%">
                </div>
            </div>
-
         </div>
-
-
         <div class="gal-row row" id="collapseSection" style="display: none;">
-
-
            <div class="col-lg-4">
                 <div class="gallery-img">
                     <img src="https://res.cloudinary.com/jaycodist/image/upload/v1570722558/gallery-first_gldujn.png" width="100%">
@@ -193,10 +162,6 @@
                     <img src="https://res.cloudinary.com/jaycodist/image/upload/v1570722589/gallery-second_nkrosi.png" width="100%">
                 </div>
             </div>
-
-
-
-
  
             <div class="col-lg-4">
                 <div class="gallery-img">
@@ -224,18 +189,14 @@
             </div>
         </span>
         </div>
-
        <div class="row justify-content-center">
            <a class="btn btn-primary"  onclick="toggleCollapseSection()" id="collapseBtn" style="color: aliceblue;"> View more photos</a>
        </div>
    </div>
 </section>
-
-
 <section id="participate-section justify-content-sm-between ">
     <div class="about-container">
         <div class="row">
-
             <div class="col-lg-6 col-md-12 col-sm-12  wow slideInLeft">
                 <h1 style="margin-bottom: 50px" class="h-color">Participation</h1>
                 <div class="text-section">
@@ -243,13 +204,10 @@
                     <p>We had people living in Africa, Europe and Asia sign up for the programme.</p>
                     <p>Participation was achieved remotely via the popular collaboration tool called Slack</p>
                 </div>
-
                 <div class="row justify-content-sm-between" style="padding: 20px">
                     <a href="https://hngi7.hng.tech/join-intern.php" class="btn btn-primary">Join HNG</a>
                 </div>
-
             </div>
-
             <div class="col-lg-6 col-md-12 col-sm-12">
                 <div style="padding: 30px">
                     <img src="https://res.cloudinary.com/jaycodist/image/upload/v1570722649/home-geeks_vld6nt.png" width="100%">
@@ -260,22 +218,17 @@
 </section>
 <section id="track-section">
     <div class="track-container container">
-
         <div class="row justify-content-center" style="margin: 50px;">
             <h3 class="h-color">HNG 6 Internship Tracks (Curriculum)</h3>
         </div>
         <div class="row">
-
             <div class="col-lg-6 col-md-12 col-sm-12" style="margin-top: 50px;">
                 <div class="text-section  wow slideInLeft">
                     <p>Those who participated in HNG 6.0 Internship program were divided into groups according to their interests.</p>
                     <p>Those groups were popularly known as tracks in HNG 6.0 Internship and the following were some of the tracks featured.</p>
                     <p>At various points in the program, collaboration between participants in different tracks is achieved.</p>
                 </div>
-
-
             </div>
-
             <div class="col-lg-6 col-md-12 col-sm-12">
                 <div class=" wow slideInUp" style="padding: 30px" align="right">
                   <ul class="styledList justify-content-sm-between">
@@ -291,24 +244,19 @@
         </div>
     </div>
 </section>
-
 <section id="mentor-section">
     <div class="mentor-container">
         <div class="container">
             <div class="row">
-
                 <div class="col-lg-6 col-md-12 col-sm-12">
-
                     <div class="row  wow slideInUp" style="margin: 50px 0;">
                         <h3 class="h-color">HNG 6 Internship Mentors</h3>
                     </div>
-
                     <div class="text-content  wow slideInLeft">
                         <p>Mentors are responsible for day-to-day running of the HNG Internship programme.</p>
                         <p>They are usually recruited from past editions of HNG Internship programmes.</p>
                         <p>They oversee all activities in the programme and ensure interns adhere to the rules and regulations of the programme.</p>
                     </div>
-
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <div class="row" style="margin-top: 50px ;">
@@ -331,27 +279,19 @@
                            </div>
                        </div>
                     </div>
-
                     <div class="row justify-content-md-center">
                         <a href="https://hngi7.hng.tech/mentorpage.php" class="btn btn-primary">See all Mentors</a>
                     </div>
-
                 </div>
-
             </div>
         </div>
-
     </div>
 </section>
-
 <section id="channels-section">
     <div class="channel-container">
-
-
         <div class="row justify-content-center p-4">
             <h3 class="h-color">HNG 6 Internship Popular Channels - SLACK <img id="slack-logo" src="https://res.cloudinary.com/jaycodist/image/upload/v1570722732/slack-icon_hwxoui.svg"></h3>
         </div>
-
       
         <div class="row justify-content-center  wow slideInLeft">
                <div class="col-lg-10 col-md-12 col-sm-12">
@@ -367,21 +307,14 @@
                    </ul>
                </div>
      
-
         </div>
-
-
     </div>
 </section>
-
 <section id="sponsor-section">
     <div class="sponsor-container justify-content-sm-center ">
-
-
         <div class="row justify-content-center" style="margin: 50px;">
             <h3 class="h-color" style="font-weight: bold">HNG 6.0 Internship Sponsors</h3>
         </div>
-
         <div class="container  wow slideInUp">
             <div class="row justify-content-between">
                 <div class="sponsor-tab"><a href="#"><img src="https://res.cloudinary.com/jaycodist/image/upload/v1570722782/hotels-logo_x3icbw.svg" width="100%"></a> </div>
@@ -389,38 +322,31 @@
                 <div class="sponsor-tab"><a href="#"><img src="https://res.cloudinary.com/jaycodist/image/upload/v1570722785/imo-logo_rvxpil.svg" width="100%"></a> </div>
                 <div class="sponsor-tab"><a href="#"><img src="https://res.cloudinary.com/jaycodist/image/upload/v1570722788/verifi-logo_nfckrw.svg" width="100%"></a> </div>
             </div>
-
             <div class="row justify-content-between">
                 <div class="sponsor-tab"><a href="#"><img src="https://res.cloudinary.com/jaycodist/image/upload/v1570723653/figma-logo_iexfvh.png" width="100%"></a> </div>
                 <div class="sponsor-tab"><a href="#"><img src="https://res.cloudinary.com/jaycodist/image/upload/v1570722855/bluechip-logo_rw62cu.svg" width="100%"></a> </div>
                 <div class="sponsor-tab"><a href="#"><img src="https://res.cloudinary.com/jaycodist/image/upload/v1570722784/flutterwave-logo_nyv9ue.svg" width="100%"></a> </div>
             </div>
         </div>
-
         <div class="row justify-content-center">
             <a href="https://hngi7.hng.tech/donate.php" class="btn btn-primary">Become a Sponsor</a>
         </div>
-
     </div>
 </section>
-
 <footer id="footer-section">
     <div class="footer-container">
-
         <div class="container">
             <div class="row">
                 <div class="logo-box">
                     <img src="https://res.cloudinary.com/phiileo/image/upload/v1571147073/brand-logo_tx0mdt.png" width="100%">
                 </div>
             </div>
-
             <div class="row justify-content-between">
                 <div class="col-lg-3 col-md-12 col-sm-12">
                    <div class="menu">
                        <div class="header">
                            <h4>Quick Links</h4>
                        </div>
-
                        <div class="">
                            <ul class="styledList">
                                <li class=""><a href="https://hngi7.hng.tech/join-intern.php">Join HNG</a> </li>
@@ -443,7 +369,6 @@
                            <p>+234 812 345 6789</p>
                            <h5>Email:</h5>
                            <p>interns@hng.tech</p>
-
                        </div>
                    </div>
                 </div>
@@ -452,12 +377,10 @@
                        <div class="header">
                            <h4>Office Address</h4>
                        </div>
-
                        <div class="">
                            <p>3 Birrel Avenue
                                Sabo, Yaba,
                                Lagos state</p>
-
                        </div>
                    </div>
                 </div>
@@ -466,7 +389,6 @@
                        <div class="header">
                            <h4>Follow Us</h4>
                        </div>
-
                        <div class="icons">
                         <div class="icons">
                             <span><i class="fa fa-twitter"></i> </span>
@@ -474,7 +396,6 @@
                             <span><i class="fab fa-dribbble"></i> </span>
                        </div>
                 </div>
-
             </div>
         </div>
     </div>
@@ -482,16 +403,12 @@
             <p class="row justify-content-center" style="color: rgb(141, 139, 139);"> © 2019, HNG Internship. All rights reserved.</p>
         </div>
 </footer>
-
 </body>
+<!-- Begin with the styles below. -->
 <style>
-
     #countdown-container div{
         display: inline-block ;
-
     }
-
-
     #countdown-section {
         width: 100%;
     }
@@ -566,50 +483,39 @@
         background-color: #00AEFF;
         text-decoration: none;
     }
-
     .menu{
         padding: 40px 0;
     }
-
     .menu .styledList{
         padding: 0;
     }
-
     .menu .header{
         margin: 30px 0;
         color: #00AEFF;
     }
-
     .menu .styledList li{
         margin: 10px 0;
     }
-
-
     .logo-box{
         width: 300px;
     }
-
     #sponsor-section{
     width: 100%;
     display: flex;
     justify-content: center;
     }
-
     #footer-section{
         padding: 50px;
         background-color: rgb(245, 245, 245);
         margin-top: 50px;
     }
-
     .sponsor-tab{
         margin: 30px;
     }
-
     .mentor-container{
         background-color: rgb(245, 245, 245);
         padding: 40px;
     }
-
     .top-navigation .navbar-brand{
         width: 200px;
        padding-top: 12px;
@@ -618,9 +524,7 @@
         width: 125%;
         margin-left: 50%;
     }
-
     @media only screen and (max-width: 600px) {
-
         .top-navigation .navbar .nav-container {
             width: 100%;
         }
@@ -643,16 +547,13 @@
     #participate-section{
         padding-top: 40px;
     }
-
     .styledList{
         list-style: none;
     }
-
     .styledList .link-list{
         margin: 15px;
         color: #00AEFF;
     }
-
     .styledList .channel-item{
         border-bottom: 1px solid rgba(108, 109, 110, 0.438);
         color:#00AEFF;
@@ -663,36 +564,28 @@
     #timer-section{
         text-align: center;
     }
-
     #countdown-intro{
         font-size: 20px;
         color: #8898AA !important;
     }
-
     .countdown-container div{
         display: inline-block;
     }
-
     .h-color{
          color: #084482;
     }
-
     .gallery-img{
         margin: 20px auto;
     }
-
     .about-container{
         padding: 50px;
     }
-
     .gal-row{
         padding: 10px !important;
     }
-
     .mentor{
         text-align: center;
     }
-
     .mentor-image img{
         border-radius: 50%;
     }
@@ -718,7 +611,6 @@
       background-color: white;
       color: #00AEFF;
     }
-
     .btn-primary{
         background: #00AEFF;
         border-radius: 6px;
@@ -730,19 +622,15 @@
             border: none;
             color: rgb(248, 245, 245);
             }
-
     @media screen and (max-width: 600px){
-
         .countdown-symbol {
             height: 3.3rem;
             width: 3.3rem;
             font-size: 1rem;
         }
-
         .countdown-symbol>span { 
             top: 0.3rem
         }
-
         .countdown-symbol p { 
             font-size: 7px;
         }
@@ -771,11 +659,7 @@
      .ipad-landscape { 
            display: none;}
       
-
-
-
 </style>
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
@@ -783,6 +667,4 @@
 <script>
     new WOW().init();
 </script>
-
-
 </html>
